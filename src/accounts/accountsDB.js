@@ -1,0 +1,22 @@
+export const accounts = [
+    {
+        id:101,
+        name:'user1',
+        balance:1000
+    },
+    {
+        id:102,
+        name:'user2',
+        balance:1000
+    },
+    {
+        id:103,
+        name:'user3',
+        balance:1000
+    },
+    {
+        id:104,
+        name:'user4',
+        balance:1000
+    }
+]
